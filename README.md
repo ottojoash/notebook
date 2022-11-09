@@ -40,6 +40,9 @@ This project is a starting point for a Flutter application.
  * Add and edit notes
  * Colorful notes (random)
 
+## Note
+This repository is still under development and I will continue to add more features to it.
+
 ## How to Contribute
 1. Fork the the project
 2. Create your feature branch (git checkout -b my-new-feature)
