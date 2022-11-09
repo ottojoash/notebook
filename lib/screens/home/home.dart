@@ -8,6 +8,8 @@ import 'package:flutter_note/screens/widgets/custom_icon_btn.dart';
 import 'package:get/get.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 
+import '../settings/settings.dart';
+
 class HomePage extends GetWidget<AuthController> {
   final AuthController authController = Get.find<AuthController>();
   @override
