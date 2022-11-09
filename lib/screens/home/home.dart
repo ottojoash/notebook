@@ -3,7 +3,7 @@ import 'package:flutter_note/controllers/authController.dart';
 import 'package:flutter_note/controllers/noteController.dart';
 import 'package:flutter_note/screens/home/add_note.dart';
 import 'package:flutter_note/screens/home/note_list.dart';
-import 'package:flutter_note/screens/settings/setting.dart';
+import 'package:flutter_note/screens/settings/settings.dart';
 import 'package:flutter_note/screens/widgets/custom_icon_btn.dart';
 import 'package:get/get.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
